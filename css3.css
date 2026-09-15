@@ -1,3 +1,25 @@
-body{
-  background color: red;
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    height: 100vh;
+    background-color: rgb(105, 129, 235);
+    padding: 30px;
+}
+
+.container {
+    height: 50%;
+    background: rgb(81, 196, 196);
+    color: white;
+    border-radius: 4%
+}
+
+.box {
+    height: 50%;
+    background: cornflowerblue;
+    color: whitesmoke;
+    border-radius: 4%;
 }
